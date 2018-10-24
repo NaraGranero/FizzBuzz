@@ -1,0 +1,2 @@
+module FizzBuzzPuzzleHelper
+end
